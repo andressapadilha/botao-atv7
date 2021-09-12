@@ -22,11 +22,15 @@
    Versão
 
    0.0.0 --> Criando o cabeçalho
+   
    0.1.0 --> Acrecentando #define para o Led e Botão
+   
    0.2.0 --> Colocando pinMode no setup
+   
    0.3.0 --> Colocar o loop acrescentando o if e o for
 
    11/09/2021
+   
    Andressa Mikaela Padilha
       
    Para conseguir rodar o programa é necessário baixar o Arduino IDE, você pode encontrar pelo próprio site.
